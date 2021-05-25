@@ -1,0 +1,8 @@
+.hobbies{
+    margin: 20px 0;
+}
+
+.hobbie-name, .hobbie-desc{
+    display: inline-block;
+    margin: 0 10px;
+}
